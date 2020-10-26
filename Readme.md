@@ -3,7 +3,7 @@ STM32F411CEU6 (Blackpill) with embedded graphic + ST7735 display
 
 ## Required List
 ### target
-`rustup target install thumbv7em-none-eabihf`
+`rustup target add thumbv7em-none-eabihf`
 
 ### cargo
 - [cargo-flash](https://github.com/probe-rs/cargo-flash)

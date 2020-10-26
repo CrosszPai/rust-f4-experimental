@@ -10,3 +10,8 @@ STM32F411CEU6 (Blackpill) with embedded graphic + ST7735 display
 
 ### programmer
 - STLINK V2
+
+## 
+`cargo flash --chip STM32F411CE --release`
+
+![ferris-lcd-demo](https://link](https://imgur.com/a/RcMV5Lj)

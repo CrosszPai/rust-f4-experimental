@@ -14,4 +14,4 @@ STM32F411CEU6 (Blackpill) with embedded graphic + ST7735 display
 ## 
 `cargo flash --chip STM32F411CE --release`
 
-![ferris-lcd-demo](https://link](https://imgur.com/a/RcMV5Lj)
+![ferris-lcd-demo](https://imgur.com/a/RcMV5Lj)

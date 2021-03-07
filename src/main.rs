@@ -99,5 +99,5 @@ fn main() -> ! {
 
 #[panic_handler]
 fn panic(info: &PanicInfo) -> ! {
-    panic!("error {}", info);
+    panic!("{}", info);
 }
